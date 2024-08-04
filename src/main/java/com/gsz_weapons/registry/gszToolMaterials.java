@@ -7,7 +7,7 @@ import net.minecraft.util.Identifier;
 
 
 public class gszToolMaterials implements ToolMaterial {
-    public static final gszToolMaterials EMERALD = new gszToolMaterials(2, 250, 12.0F, 2.0F, 22 , "minecraft:emerald");
+    public static final gszToolMaterials EMERALD = new gszToolMaterials(2, 250, 12.0F, 2.0F, 22 , "mora:mora");
 
     private final int miningLevel;
     private final int itemDurability;

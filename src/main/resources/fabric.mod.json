@@ -1,14 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "gsz_weapons",
-	"version": "${version}",
+	"version": "v1.1.0",
 	"name": "GSZ_Weapons",
-	"description": "GSZ_Weapons模组加入了原神、崩坏·星穹铁道以及绝区零中经典的武器",
+	"description": "GSZ_Weapons模组加入了原神、崩坏·星穹铁道以及绝区零中的部分武器",
 	"authors": [
 		"Windy"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://www.mineshin.top",
 		"sources": "https://github.com/lhyxyz/gsz_weapons"
 	},
 	"license": "CC0-1.0",

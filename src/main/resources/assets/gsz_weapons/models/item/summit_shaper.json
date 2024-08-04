@@ -1,0 +1,18 @@
+{
+  "parent": "item/handheld",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, -90, 55 ],
+      "translation": [ 0, 7.5, 2.0 ],
+      "scale": [ 0.9, 0.9, 0.9 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, -90, 25 ],
+      "translation": [ 1.13, 7.2, 1.13 ],
+      "scale": [ 1.02, 1.02, 1.02 ]
+    }
+  },
+  "textures": {
+    "layer0": "gsz_weapons:item/summit_shaper"
+  }
+}

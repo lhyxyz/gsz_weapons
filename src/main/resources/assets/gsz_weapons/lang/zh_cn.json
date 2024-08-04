@@ -6,5 +6,9 @@
   "item.gsz_weapons.mistsplitter_reforged": "雾切之回光",
   "item.gsz_weapons.light_of_foliar_incision": "裁叶萃光",
   "item.gsz_weapons.splendor_of_tranquil_waters": "静水流涌之辉",
-  "gszGroup.GSZGROUP": "米家武器"
+  "item.gsz_weapons.aquila_favonia": "风鹰剑",
+  "item.gsz_weapons.key_of_khaj_nisut": "圣显之钥",
+  "item.gsz_weapons.primordial_jade_cutter": "磐岩结绿",
+  "item.gsz_weapons.summit_shaper": "斫峰之刃",
+  "itemGroup.weapons": "原神武器"
 }

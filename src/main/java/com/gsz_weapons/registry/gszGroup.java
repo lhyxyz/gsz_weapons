@@ -21,6 +21,10 @@ public class gszGroup {
                         entries.add(gszItems.mistsplitter_reforged);
                         entries.add(gszItems.light_of_foliar_incision);
                         entries.add(gszItems.splendor_of_tranquil_waters);
+                        entries.add((gszItems.aquila_favonia));
+                        entries.add((gszItems.key_of_khaj_nisut));
+                        entries.add(gszItems.primordial_jade_cutter);
+                        entries.add(gszItems.summit_shaper);
                     }).build());
 
     public static void registerModItemGroup(){
